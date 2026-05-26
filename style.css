@@ -47,6 +47,9 @@ nav a {
     text-decoration: none;
 }
 
+
+
+
 nav a:hover {
     color: #FFFFFF;
     background-color: #1C5D99; /* Колір при наведенні */
